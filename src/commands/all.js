@@ -1,0 +1,2 @@
+import "./ping";
+import "./example";
