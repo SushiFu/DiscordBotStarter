@@ -1,7 +1,7 @@
 {
-  "name": "DiscordBotSample",
+  "name": "DiscordBotStarter",
   "version": "1.0.0",
-  "description": "Sample to create Discord Bot in Node.JS",
+  "description": "Discord Bot Starter in Node.JS",
   "main": "dist/server.js",
   "repository": "https://github.com/LaBaleineFr/DiscordBotSample.git",
   "author": "SushiFu <SushiFu@gmx.fr>",

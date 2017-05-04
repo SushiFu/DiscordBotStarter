@@ -1,4 +1,4 @@
-# Sample Discord Bot in Node.JS 
+# Discord Bot Starter in Node.JS
 
 ## Features
 - ...
